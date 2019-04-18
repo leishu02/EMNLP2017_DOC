@@ -1,4 +1,4 @@
-# EMNLP2018_DOC
+# EMNLP2017_DOC
 code for our EMNLP 2018 paper "DOC: Deep Open Classification of Text Documents"
 
 DOC's experiment setting is huge. I trimmed them into one file containing every function from pre-processing till evaluating. In paper, I use google-new pretrained embedding. This code does not use pretrained embedding. If you want to fully re-produce the result, you may need to randomly sample 10 times seen-unseen classes split and load the pretrained embedding. 
