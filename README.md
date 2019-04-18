@@ -15,18 +15,11 @@ We have one meta-learning based continuing work recently accepted at the web con
 https://www.cs.uic.edu/~liub/publications/WWW-2019-camera-ready.pdf
 
 library: 
-
 python 2.7 
-
 keras 2.1.2 
-
 scipy 
-
 json 
-
 numpy 
-
 sklearn 
-
 jupyter (if you want to use .ipynb file)
 
